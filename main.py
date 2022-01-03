@@ -2,4 +2,4 @@ import random
 
 n = random.randint(1,6)
 
-print(n)
+print(f' the number on dice is {n}')
